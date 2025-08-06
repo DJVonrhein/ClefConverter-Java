@@ -16,3 +16,6 @@ or
 ```
 java -jar target/clef-converter-0.1.0.jar [path to sheet music image] treble
 ```
+
+Step 3:
+See the outputted sheet music in img/output.png
